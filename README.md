@@ -39,7 +39,6 @@ Open your terminal and run the following command:
 git clone [https://github.com/Tanmay-hue/Email_Spam_Classifier](https://github.com/Tanmay-hue/Email_Spam_Classifier)
 cd Email_Spam_Classifier
 ```
-*(Remember to replace `YOUR_USERNAME` with your actual GitHub username!)*
 
 ### **2. Download the Dataset**
 This project is trained on the "Spam Ham Dataset" from Kaggle.
