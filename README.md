@@ -1,4 +1,4 @@
-# Java Spam Classifier: Built From Scratch
+# Java Spam Classifier
 
 A Spam Email Classifier built entirely from the ground up in pure Java, without any external machine learning libraries. This project demonstrates a deep, fundamental understanding of the Naive Bayes algorithm and the core principles of text classification.
 
