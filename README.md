@@ -4,19 +4,6 @@ A Spam Email Classifier built entirely from the ground up in pure Java, without 
 
 ---
 
-## The Core Idea
-
-In a world of powerful ML libraries, why build from scratch?
-
-This project was undertaken as a challenge to go beyond just using libraries and to truly understand the mechanics behind text classification. By implementing the Naive Bayes algorithm manually, I gained hands-on experience with:
--   **Probability theory** in a real-world application.
--   **Text preprocessing** and feature extraction techniques.
--   The mathematical nuances of a classic machine learning algorithm.
-
-It's a testament to building strong foundations, not just getting a result.
-
----
-
 ## How It Works
 
 The classifier is based on **Bayes' Theorem**. In simple terms, it calculates the probability of an email being "spam" or "ham" based on the words it contains.
